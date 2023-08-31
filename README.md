@@ -1,0 +1,2 @@
+# stars
+game about stars
